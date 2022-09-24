@@ -489,5 +489,8 @@
       "!**/node_modules/react-dom/*/*.development.js",
       "!node_modules/.cache"
     ]
+  },
+  "volta": {
+    "node": "16.15.0"
   }
 }
