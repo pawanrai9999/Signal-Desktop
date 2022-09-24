@@ -389,7 +389,7 @@
         "StartupWMClass": "Signal"
       },
       "target": [
-        "deb"
+        "rpm"
       ],
       "icon": "build/icons/png"
     },
